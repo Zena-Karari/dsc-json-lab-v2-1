@@ -12,7 +12,7 @@ SOLUTION_BRANCH = "solution"
 CUSTOM_COMMIT_MSG_FLAG = "-m"
 
 # FUNCTIONS
-
+#
 
 def get_notebook_json(filename="index.ipynb"):
     with open(filename, 'r') as f:
